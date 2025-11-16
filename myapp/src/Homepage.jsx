@@ -1,5 +1,5 @@
 import React from 'react'
-import "../src/Homep.css"
+import "./Homep.css"
 import { Link } from 'react-router-dom'
 
 
